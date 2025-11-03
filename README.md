@@ -1,3 +1,11 @@
+![Java](https://img.shields.io/badge/Java-17%2B-red?logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?logo=springboot)
+![React](https://img.shields.io/badge/React-18.x-blue?logo=react)
+![Vite](https://img.shields.io/badge/Vite-frontend-orange?logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-styling-38B2AC?logo=tailwindcss)
+![MySQL](https://img.shields.io/badge/MySQL-8%2B-blue?logo=mysql)
+![License](https://img.shields.io/badge/License-MIT-yellow?logo=open-source-initiative)
+
 # 🚀 Nagode - API Spring Boot Sécurisée
 
 Application backend Nagode développée avec Spring Boot, sécurisée par JWT et système de refresh token.
